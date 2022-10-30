@@ -6,11 +6,15 @@
     width: 90%;
 }
 nav{
-    background-color: rgba(143, 143, 241, 0.685);
+    background-color: blue;
 }
 #barra li{
     display:inline-block;
     width:13%;
     padding:10px 10px;
     text-align:center;
+}
+
+.navegacion{
+    color: white;
 }
